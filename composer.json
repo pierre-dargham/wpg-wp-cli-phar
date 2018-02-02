@@ -1,6 +1,6 @@
 {
     "name":"globalis/wpg-wp-cli-phar",
-    "license":"GPL-2.0",
+    "license":"GPL-2.0-or-later",
     "description":"Wrapper for wp-cli phar",
     "homepage":"https://github.com/wp-globalis-tools/wpg-wp-cli-phar",
     "authors":[
